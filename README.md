@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nicholasf09
+- 👋 Hi, I’m Nicholas Fransisco
 - 👀 I’m interested in Full-Stack Web Development
 - 🌱 I’m currently learning nextJS
 - 📫 Feel free to reach out to me 
