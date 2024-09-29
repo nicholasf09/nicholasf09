@@ -75,7 +75,7 @@
 </a>
  
 <a href="https://github.com/nicholasf09">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AmardeepKesharwani&theme=blueberry" width="380"/>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=nicholasf09&theme=tokyonight-duo&border_radius=15&hide_current_streak=true" alt="GitHub Streak" /></a>
 </a>
 </p>
 
