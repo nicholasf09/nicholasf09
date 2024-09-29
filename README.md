@@ -1,5 +1,5 @@
 <h2><img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"> Hi There, Welcome to my Github profile!</h2>
-<div style="margin-bottom: 50px;">
+<div style="margin-bottom: 500px;">
   - 👀 I’m interested in Full-Stack Web Development <br>
 </div>
 
