@@ -68,10 +68,6 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-
-
 <table align="center">
   <tr>
     <td>
@@ -82,6 +78,8 @@
     </td>
   </tr>
 </table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <!---
 nicholasf09/nicholasf09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
