@@ -1,4 +1,4 @@
-<h2>👋 Hi There, Welcome to my Github profile!</h2>
+<h2><img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"> Hi There, Welcome to my Github profile!</h2>
 - 👀 I’m interested in Full-Stack Web Development
 - 🌱 I’m currently learning nextJS
 - 📫 Feel free to reach out to me 
