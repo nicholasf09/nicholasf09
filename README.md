@@ -80,10 +80,10 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=nicholasf09&theme=tokyonight-duo&border_radius=15&hide_current_streak=true&theme=github_dark" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=nicholasf09&theme=tokyonight-duo&border_radius=15&hide_current_streak=true" alt="GitHub Streak" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholasf09&layout=compact&langs_count=8&theme=dark&border_radius=10" alt="Most Used Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholasf09&layout=compact&langs_count=8&theme=dark&border_radius=10&theme=github_dark" alt="Most Used Languages" />
     </td>
   </tr>
 </table>
