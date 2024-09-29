@@ -72,15 +72,16 @@
 
 
 
-<p align="center">
- 
-<a href="https://github.com/nicholasf09">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=nicholasf09&theme=tokyonight-duo&border_radius=15&hide_current_streak=true" alt="GitHub Streak" /></a>
-</a>
-
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nicholasf09&layout=compact&langs_count=8&theme=dark)
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=nicholasf09&theme=tokyonight-duo&border_radius=15&hide_current_streak=true" alt="GitHub Streak" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholasf09&layout=compact&langs_count=8&theme=dark" alt="Most Used Languages" />
+    </td>
+  </tr>
+</table>
 
 <!---
 nicholasf09/nicholasf09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
