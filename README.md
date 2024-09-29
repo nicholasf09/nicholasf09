@@ -1,9 +1,9 @@
 <h2><img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"> Hi There, Welcome to my Github profile!</h2>
-<div style="margin-bottom: 20px;">
+<div style="margin-bottom: 50px;">
   - 👀 I’m interested in Full-Stack Web Development <br>
 </div>
 
-<div style="margin-bottom: 20px;">
+<div style="margin-bottom: 50px;">
   - 🌱 I’m currently learning nextJS <br>
 </div>
 
