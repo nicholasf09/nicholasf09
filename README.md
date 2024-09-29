@@ -1,15 +1,16 @@
 <h2><img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"> Hi There, Welcome to my Github profile!</h2>
-<div style="margin-bottom: 500px;">
-  - 👀 I’m interested in Full-Stack Web Development <br>
-</div>
+<p>
+  - 👀 I’m interested in Full-Stack Web Development
+</p>
 
-<div style="margin-bottom: 50px;">
-  - 🌱 I’m currently learning nextJS <br>
-</div>
+<p>
+  - 🌱 I’m currently learning Next.js
+</p>
 
-<div style="margin-bottom: 20px;">
+<p>
   - 📫 Feel free to reach out to me
-</div>
+</p>
+
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
