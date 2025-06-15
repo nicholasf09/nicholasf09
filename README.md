@@ -1,10 +1,10 @@
 <h2><img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"> Hi There, Welcome to my Github profile!</h2>
 <p>
-  - 👀 I’m interested in Full-Stack Web Development
+  - 👀 I’m interested in Machine Learning & Full-Stack Web Development
 </p>
 
 <p>
-  - 🌱 I’m currently learning Next.js
+  - 🌱 I’m currently learning AI Automation
 </p>
 
 <p>
